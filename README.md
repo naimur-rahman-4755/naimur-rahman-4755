@@ -1,19 +1,22 @@
-# Hello there! 👋 I'm Md Naimur Rahman (DraculaNaim)
+# Hello! 👋 I'm Md Naimur Rahman
 
-🚀 Aspiring Software Engineer | 💻 Flutter Developer | 📚 Computer Science Finalist
+🚀 Flutter Developer | 💻 Aspiring Software Engineer | 🎓 BSc in CSE Graduate
 
-## About Me
+## 👨‍💻 About Me
 
-- 🎓 Final year BSc in CSE student (Thesis remaining)
-- 🏆 Certified Flutter App Developer
-- 🔭 Currently building: Portfolio projects to showcase my skills
-- 🌱 Deep diving into: Flutter animations & Firebase integration
-- 💼 Open to opportunities: Internships | Entry-level positions
-- 📍 Location: Dhaka, Bangladesh (Open to remote work)
-- 💬 Ask me about: Mobile development or CS fundamentals
-- ⚡ Fun fact: I enjoy algorithmic problem solving in my free time
+I'm a Computer Science & Engineering graduate from **Dhaka International University** with a **CGPA of 3.68**.  
+I enjoy building modern mobile applications using **Flutter** and working on real-world problem-solving projects.
 
-## 🛠️ Technical Stack
+- 🎓 BSc in CSE (Dhaka International University) | CGPA: 3.68  
+- 📱 Flutter Developer (Portfolio & production-level projects)
+- 🔭 Currently working on: **LeafDoc (AI-based Leaf Disease Diagnosis App)**
+- 🌱 Exploring: Flutter Clean Architecture, Firebase, and TFLite deployment
+- 💼 Open to: Internship & Entry-Level Software Engineer roles
+- 📍 Based in: Dhaka, Bangladesh (Open to Remote)
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages & Frameworks
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -22,39 +25,54 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Development Tools
+### Tools & Platforms
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 📈 GitHub Analytics
+---
+
+## 🚀 Featured Projects
+
+### 🍃 LeafDoc (Ongoing)
+AI-powered tomato leaf disease diagnosis system using Deep Learning and Flutter.
+- Hybrid model (ResNet50 + InceptionV3)
+- Deployed using TensorFlow Lite (TFLite)
+- Diagnosis history & disease library features  
+🔗 *Repo link:* (Add your repository link here)
+
+### 🛒 ShopnoJoy (E-Commerce Website)
+A complete e-commerce web application with admin panel and product management features.  
+- User authentication & product ordering
+- Admin dashboard
+- Responsive UI  
+🔗 *Repo link:* (Add your repository link here)
+
+### 📱 Flutter Portfolio Apps
+A collection of Flutter projects to demonstrate UI design, state management, and Firebase integration.  
+🔗 *Repo link:* (Add your portfolio repo link here)
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=draculanaim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draculanaim&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=draculanaim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draculanaim&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=draculanaim&color=blueviolet&style=flat-square)
+---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_%40naimur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-naimur-rahman4755/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow_%40draculanaim-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/draculanaim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Naimur_Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-naimur-rahman4755/)
+[![Facebook](https://img.shields.io/badge/Facebook-draculanaim-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/draculanaim)
 [![Gmail](https://img.shields.io/badge/Gmail-naimurrahman4755-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimurrahman4755@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@draculanaim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/draculanaim)
 
-🚀 Aspiring Software Engineer | 💻 Flutter Developer | 📚 Computer Science Finalist
+---
 
-
-## 🏆 Projects Highlight
-
-- **Flutter E-Commerce App**: Complete mobile store with Firebase backend
-- **Java Inventory System**: Desktop application for small businesses
-- **Python Data Analyzer**: CSV data processing and visualization tool
-
-
+```dart
 void main() {
-  print("Let's build something amazing together!");
-})
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/draculanaim)
+  print("Let's build something meaningful together!");
+}
