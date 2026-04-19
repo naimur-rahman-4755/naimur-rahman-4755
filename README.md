@@ -40,18 +40,18 @@ AI-powered tomato leaf disease diagnosis system using Deep Learning and Flutter.
 - Hybrid model (ResNet50 + InceptionV3)
 - Deployed using TensorFlow Lite (TFLite)
 - Diagnosis history & disease library features  
-🔗 *Repo link:* (Add your repository link here)
+🔗 Repo: https://github.com/Draculanaim/leaf_Doc
 
-### 🛒 ShopnoJoy (E-Commerce Website)
-A complete e-commerce web application with admin panel and product management features.  
-- User authentication & product ordering
-- Admin dashboard
-- Responsive UI  
-🔗 *Repo link:* (Add your repository link here)
+### 🤝 ShopnoJoy (Charity & Donation Management Platform)
+A web-based platform designed to support organizations that help poor and helpless people by managing donation activities and community support programs.
+- Donation and campaign management system
+- Admin dashboard for organization control
+- User-friendly and responsive interface  
+🔗 Repo: https://github.com/Draculanaim/sopnojoy
 
 ### 📱 Flutter Portfolio Apps
-A collection of Flutter projects to demonstrate UI design, state management, and Firebase integration.  
-🔗 *Repo link:* (Add your portfolio repo link here)
+A growing collection of Flutter applications showcasing clean UI design, state management, and real-world app features such as authentication, API integration, and Firebase services.  
+📌 Currently under active development.
 
 ---
 
@@ -67,7 +67,7 @@ A collection of Flutter projects to demonstrate UI design, state management, and
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Naimur_Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-naimur-rahman4755/)
-[![Facebook](https://img.shields.io/badge/Facebook-draculanaim-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/draculanaim)
+[![Facebook](https://img.shields.io/badge/Facebook-draculanaim-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/naimur.r9)
 [![Gmail](https://img.shields.io/badge/Gmail-naimurrahman4755-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimurrahman4755@gmail.com)
 
 ---
