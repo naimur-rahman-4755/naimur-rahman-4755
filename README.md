@@ -40,7 +40,7 @@ AI-powered tomato leaf disease diagnosis system using Deep Learning and Flutter.
 - Hybrid model (ResNet50 + InceptionV3)
 - Deployed using TensorFlow Lite (TFLite)
 - Diagnosis history & disease library features  
-🔗 Repo: https://github.com/naimur-rahman-4755/leaf_Doc
+🔗 Repo: https://github.com/naimur-rahman-4755/leafdoc
 
 ### 🤝 ShopnoJoy (Charity & Donation Management Platform)
 A web-based platform designed to support organizations that help poor and helpless people by managing donation activities and community support programs.
